@@ -1,4 +1,7 @@
-ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" && \
+# uncomment line 2 if you do not have homebrew installed
+# ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" && \
+
+# Installs cask
 brew install caskroom/cask/brew-cask && \
 
 # Browsers
