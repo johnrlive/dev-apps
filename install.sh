@@ -1,3 +1,5 @@
+ruby -e "$(curl -fsSL
+https://raw.githubusercontent.com/Homebrew/install/master/install)" && \
 brew install caskroom/cask/brew-cask && \
 
 # Browsers
@@ -5,7 +7,7 @@ brew cask install google-chrome && \
 brew cask install firefox && \
 
 # Dev Tweaks
-brew install cask shiftit && \
+brew cask install shiftit && \
 brew cask install bettertouchtool && \
 brew cask install karabiner && \
 brew cask install seil && \
