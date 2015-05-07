@@ -33,4 +33,4 @@ brew cask install mysqlworkbench && \
 brew cask install jing && \
 brew cask install vlc && \
 brew cask install teamviewer && \
-brew cask install avast && \
+brew cask install avast 
