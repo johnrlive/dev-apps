@@ -26,6 +26,7 @@ brew cask install quicksilver && \
 brew cask install vagrant && \
 brew cask install virtualbox && \
 brew cask install sourcetree && \
+brew cask install kitematic && \
 
 # Database Apps
 brew cask install postgres && \
